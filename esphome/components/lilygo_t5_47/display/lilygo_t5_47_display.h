@@ -1,5 +1,5 @@
 #pragma once
-#include <Arduino.h>
+// #include <Arduino.h>
 
 #include "esp_adc_cal.h"
 #include "esphome/components/display/display_buffer.h"
